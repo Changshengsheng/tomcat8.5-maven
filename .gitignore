@@ -5,7 +5,7 @@
 
 # Log file
 *.log
-/logs
+catalina-home/lib/
 
 # BlueJ files
 *.ctxt
